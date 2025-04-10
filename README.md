@@ -104,6 +104,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Rahul Vanga - rahulvanga2004@gmail.com
+Rahul Vanga - vangavetirahul@gmail.com
 
 Project Link: [https://github.com/rahulgv1905/qr-baggage-system](https://github.com/rahulgv1905/qr-baggage-system)
