@@ -2,6 +2,17 @@
 
 A modern web application for tracking baggage using QR codes, built with React and Node.js.
 
+## Application Screenshots
+
+![QR Code Generation and Scanning](./img1.png)
+*QR Code Generation and Scanning Interface*
+
+![Student Registration Form](./img2.png)
+*Student Information Management System*
+
+![Admin Dashboard Overview](./img3.png)
+*Admin Dashboard with Real-time Updates*
+
 ## Features
 
 - 🎯 QR Code Generation: Generate unique QR codes for baggage tracking
@@ -9,6 +20,30 @@ A modern web application for tracking baggage using QR codes, built with React a
 - 👥 Student Information Management: Track and manage student baggage details
 - 🔐 Admin Dashboard: Secure admin interface for managing the system
 - 📊 Real-time Updates: Track baggage status in real-time
+
+## Application Overview
+
+### Key Interfaces:
+
+1. **Home Page**
+   - Clean and intuitive landing page
+   - Quick access to all main features
+   - Modern responsive design
+
+2. **QR Code Scanner**
+   - Real-time QR code scanning
+   - Camera integration
+   - Instant baggage information retrieval
+
+3. **Student Registration**
+   - User-friendly form interface
+   - Data validation
+   - Secure information submission
+
+4. **Admin Dashboard**
+   - Comprehensive overview of all baggage
+   - Real-time status updates
+   - Advanced filtering and search capabilities
 
 ## Tech Stack
 
@@ -104,6 +139,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Rahul Vanga - vangavetirahul@gmail.com
+Rahul Vangaveti - vangavetirahul@gmail.com
 
 Project Link: [https://github.com/rahulgv1905/qr-baggage-system](https://github.com/rahulgv1905/qr-baggage-system)
